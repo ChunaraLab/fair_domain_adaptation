@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+fairlearn==0.4.1
+POT
+joblib
